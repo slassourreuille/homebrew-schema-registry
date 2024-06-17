@@ -1,4 +1,4 @@
-# Slassourreuille Schema-registry
+# slassourreuille schema-registry
 
 ## How do I install these formulae?
 
